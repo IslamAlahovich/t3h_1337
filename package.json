@@ -1,0 +1,21 @@
+{
+  "name": "t3h_1337",
+  "version": "1.0.0",
+  "description": "test vkapi-app on node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "4.15.3",
+    "body-parser": "1.17.2",
+    "dotenv": "^4.0.0",
+    "vk-io": "3.1.7"
+  },
+  "keywords": [
+    "test",
+    "vkapi"
+  ],
+  "author": "",
+  "license": "MIT"
+}
